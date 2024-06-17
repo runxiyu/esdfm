@@ -37,13 +37,23 @@ prevails. [^1]
     see how I could explain this...
 
 It cannot be denied, however, that intuitive judgment is occasionally
-unreliable. I attribute these to a lack of information.
+unreliable. But these are typically attributed to a lack of information.
+For those who raise the example of a person whose moral principles are
+considered "utterly deranged", it must also be noted how the "expected",
+or so called "normative" moral judgments as expected by the people
+making this judgment, are no more fundamentally correct than any other
+set of moral judgments, including those that are considered "socially
+unacceptable". A universal moral judgment for one moral act among any
+set of different subjects cannot exist in a world that has consistently
+overhauled its moral framework throughout the centuries, and there is no
+evidence that we have reached any sort of stable consensus on what moral
+acts are.
 
-But if moral principles are up to each individual to decide, it could be
-argued that there would be no consistency in society and no moral
-foundation for criminal justice systems. My response would be that "[the
-court's] obligation is to define the liberty of all, not to mandate our
-own moral code." \Runcite{casey}.
+But if moral principles are up to each individual to decide, would there
+be no consistency in society and no moral foundation for criminal
+justice systems? My response would be that "[the court's] obligation is
+to define the liberty of all, not to mandate our own moral code."
+\Runcite{casey}.
 
 <!-- vim: tw=72 colorcolumn=73 spell spelllang=en_us
 -->
