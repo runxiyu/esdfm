@@ -55,5 +55,9 @@ justice systems? My response would be that "[the court's] obligation is
 to define the liberty of all, not to mandate our own moral code."
 \Runcite{casey}.
 
+* Compare so-called "better" sources of intuition, perhaps even
+  empiricism. Consider the individuality.
+* Perhaps an extended example on the trolley problem.
+
 <!-- vim: tw=72 colorcolumn=73 spell spelllang=en_us
 -->

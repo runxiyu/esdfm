@@ -17,7 +17,6 @@ moral intuitionism. Moral intuitionists often believe that
 
 ## Intuition as lazy (unexplained) empiricism
 
-# Random trash notes that I haven't integrated yet
 - 
 collective ethics vs. morals
 
