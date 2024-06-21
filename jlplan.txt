@@ -1,0 +1,6 @@
+2024-06-21	Finish general essay structure and discuss
+2024-06-22	Implement discussion ideas
+2024-06-23	Attempt verification and add more sources
+2024-06-24	Full bib
+2024-06-25	Finish "presentable" draft
+2024-06-26 and further	Bug fixes

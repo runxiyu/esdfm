@@ -72,14 +72,15 @@ there are quite a few purposes that people might apply moral intuition
 to, and the usage thereof are not equally valid across these purposes.
 
 There are usually four ways people use moral intuition. Firstly, it's to
-make a moral judgment themselves: Is this right or wrong? Secondly, it's
-to decide on what to do (which might, depending on interpretation, be
-combined into the first). Thirdly, it's to test a general moral
-principle: Does this pattern sound right? Does applying this principle
-yield obviously ridiculous results? Fourthly, it's to provide an
-interface to ethics.
+make a moral judgment themselves: Is this specific event, in its
+specific context, "right or wrong"? Secondly, it's to decide on what to
+do (which might, depending on interpretation, be combined into the
+first). Thirdly, it's to test a general moral principle: Does this
+pattern sound right? Does applying this principle yield obviously
+ridiculous results? Fourthly, it's to provide an interface to ethics.
 
-
+I hereby assert that moral intuition is generally trustworthy in the
+first and third usages, but is less effective in the second and fourth.
 
 <!-- vim: tw=72 colorcolumn=73 spell spelllang=en_us
 -->
