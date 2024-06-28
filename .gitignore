@@ -19,3 +19,5 @@ aaaa
 __pycache__
 !img/**
 !**/img/**
+*.bbl
+*.blg
