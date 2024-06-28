@@ -222,54 +222,7 @@ literal "false"
 \end_layout
 
 \begin_layout Standard
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-—
-空行
-\begin_inset space ~
+\begin_inset VSpace bigskip
 \end_inset
 
 
@@ -335,16 +288,15 @@ Global landscape of democracy shows that vast regions are still short of democra
  Venezuela,
  Brazil,
  Argentina,
- Chile and multiple other Latin American countries have experienced different degrees of democratic backslide 
+ Chile and multiple other Latin American countries have experienced different degrees of democratic backslide
 \begin_inset CommandInset citation
 LatexCommand autocite
-key "key-4"
+key "IDEA"
 literal "false"
 
 \end_inset
 
-####### (The Global State of Democracy 2019 Addressing the Ills,
- Reviving the Promise).
+.
  Cambodia,
  Thailand,
  Pakistan,
@@ -366,16 +318,15 @@ However,
 \end_layout
 
 \begin_layout Standard
-此处和定义三的部分有重复。
 Here comes a crucial question of the differentiation of populism from liberal democracy.
- Populism is still democracy if democracy is taken as representative legislature and administration through competitive election (Definition 2),
+ Populism still goes through representative legislature and administration through competitive election (Definition 2),
  but it goes out of line with Definition 3 of democracy (Liberal democracy based on institutionalized constitution).
  Populist actors often show disrespect for the accountability institutions that check government,
  protect political pluralism and constitute liberal democracy.
  Public opinions malnourished by misinformation and lack of deliberation,
  or intentionally manipulated by demagogues hijack election and government polices against the guardrails of constitution and rule of law.
  Populism may look like democracy pro forma,
- but actually gnaws at the essence of liberal democracy.
+ but actually gnaws at the bones of liberal democracy.
  The inherent predisposition for unconstrained power turns populism into a threat for democracy.
 \end_layout
 
@@ -398,8 +349,14 @@ John Stuart Mill thinks that democracy is best suited to promote the common good
  Secondly,
  the political participation also improves the moral capacity of citizens.
  The governed cultivate their deliberate capacity to exchange reasons with others and to take principled stands in political process.
- (Considerations on Representative Government:
- 404).########
+\begin_inset CommandInset citation
+LatexCommand autocite
+key "Mill_2010"
+literal "false"
+
+\end_inset
+
+ 
 \end_layout
 
 \begin_layout Standard
@@ -426,8 +383,16 @@ Democracies are by and large more affluent,
 \begin_inset Quotes erd
 \end_inset
 
-(The Global State of Democracy 2019,
- p6)########,
+
+\begin_inset CommandInset citation
+LatexCommand autocite
+after "6"
+key "IDEA"
+literal "false"
+
+\end_inset
+
+,
  while the democratically starved Middle East literally imposes gender apartheid.
  Civil Liberties are one of the best-performing aspects of democracy including in Africa.
  
@@ -442,14 +407,22 @@ However,
 in and of itself,
  democracy is not sufficient to guarantee low levels of corruption:
  indeed,
- 25 per cent of democracies globally suffer from high levels of corruption.
- 
+ 25 per cent of democracies globally suffer from high levels of corruption 
 \begin_inset Quotes erd
 \end_inset
 
-(The Global State of Democracy 2019,
- p3)######## Latin America has highest socioeconomic inequality and highest crime rate.
- USA has seen intense working class's sense of victim hood and economic anger since globalization and free capital flow have left them behind.
+
+\begin_inset CommandInset citation
+LatexCommand autocite
+after "3"
+key "IDEA"
+literal "false"
+
+\end_inset
+
+.
+ Latin America has highest socioeconomic inequality and highest crime rate.
+ USA has seen intense working class's sense of victim hood and economic anger since they were left behind in globalization and free capital flow.
  The old beacon of hope has been more stratified and polarized in the past decade than ever before.
  Democracy does not translate into prosperity.
  
@@ -476,12 +449,10 @@ One the other hand,
  For example,
  Haiti copied American constitution and the entire political system,
  but ended up being one of the poorest and most corrupted countries in the world with political turmoils one after another.
- In the wake of the demise of the Egyptian authoritarian government,
- elections was held and a new constitution was passed in 2012,
- just to see massive political demonstrations against the new administration,
- and military quickly assumed control of the country.
- Democracy was desired and tried,
- but collapsed for absence of competent government.
+ Cambodia’s multi-party election democracy plunged into a de facto one-party authoritarianism in 2017 due to its weak state capacity.
+ Democracy was imposed but collapsed for absence of competent government.
+ Democracy neither flourishes in weak states,
+ nor leads to common prosperity.
  
 \end_layout
 
@@ -534,17 +505,10 @@ literal "false"
 \end_layout
 
 \begin_layout Standard
-Therefore,
- to new democracies with strong social stratification and racial or religious conflicts,
- the importance of democracy submits to that of a strong government to contain the situation to the tract of development and prosperity.
- To established democracies,
- the culture of compliance with the unwritten norms is crucial to guardrail the resilience and robustness of democracy,
- and the social stability and prosperity.
- The equation to prosperity is state building,
- constitutional democracy and unwritten social norms of forbearance and tolerance.
- If the symmetry of the equation is broken,
- democracy paves the way to chaos and abyss.
- 
+\begin_inset VSpace bigskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection*
@@ -552,47 +516,53 @@ Conclusion
 \end_layout
 
 \begin_layout Standard
-ANSWER THE QUESTION
-\end_layout
-
-\begin_layout Standard
-Populism is not democracy and pervasiveness of populism is not overdose of democracy.
+If democracy is taken as end,
+ it is not excessive either in global landscape or in established democracies.
+ Many regions in this world are starving for democracy.
+ In established democracies like North America or Europe,
+ the surging populism is not overdose of democracy but erosion of the backbones of democracy.
  
 \end_layout
 
 \begin_layout Standard
-However,
- even if liberal democracy,
- if it is the only game in town,
- without the guardrails of the unwritten norms of a civilized society,
- e.g.
- politician's forbearance and tolerance,
- media's integrity and rigorous fact-checking system,
- and the public's willingness to step out of their own conflicts of interests,
- and engage in fair and responsible deliberation,
- there can be too much of it,
- even if it is liberal democracy based on institutionalized constitutions.
+If democracy is taken as means,
+ it does not warrant social prosperity,
+ not is it the only means to prosperity.
+ For regimes with severe social stratification and racial or religious conflicts,
+ the importance of democracy submits to that of a strong government to contain the situation to the track of development and prosperity.
+ Multiple cases in history have proven that absent strong state power,
+ the orgy of democracy ends up in chaos and collapse.
+ Therefore,
+ there has been too much democracy in weak regimes.
  
 \end_layout
 
 \begin_layout Standard
-Democracy neither flourishes in weak states,
- nor leads to common prosperity.
+The fertile soil of civil society,
+ including media's integrity and rigorous fact-checking system,
+ the public's political literacy and willingness to step out of their conflicts of interests to engage in deliberation and exchange of opinion,
+ and the political climate of compliance with the unwritten norms of forbearance and tolerance are also crucial to guardrail the resilience and robustness of democracy,
+ cohesion and social stability and prosperity.
+ The equation to prosperity is state building,
+ constitutional democracy,
+ civil society and unwritten norms of forbearance,
+ tolerance etc..
+ If the symmetry of the equation is broken,
+ when democracy is prioritized at the expense of other factors and becomes the only game in town,
+ it paves the way to abyss.
+ Democratic backsliding could begin at the ballot box.
+ It is too early to say the symmetry in North America and Europe has already been broken,
+ but there is a likelihood that it could be.
  
 \end_layout
 
 \begin_layout Standard
-Democratic backsliding today begins at the ballot box.
+This essay would conclude with a masthead of The Washington Post.
+ 
 \end_layout
 
-\begin_layout Standard
-Juan Linz:
- Democracy is the only game in the town (by both elite and public)，
-民主崩溃
-\end_layout
-
-\begin_layout Subsubsection*
-Democracy dies in darknes
+\begin_layout Verse
+Democracy Dies in Darkness
 \end_layout
 
 \begin_layout Verse
@@ -641,11 +611,6 @@ Knowing helps us decide.
 \end_inset
 
 Knowing keeps us free.
- 
-\end_layout
-
-\begin_layout Right Address
-The Washington Post 
 \end_layout
 
 \begin_layout Standard
