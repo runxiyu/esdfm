@@ -179,7 +179,7 @@ literal "false"
 \end_layout
 
 \begin_layout Description
-Definition 2 Representative legislature and administration through competitive election
+Definition 2 Elective and Representative Democracy
 \end_layout
 
 \begin_layout Standard
@@ -206,14 +206,73 @@ Definition 3 Liberal democracy based on institutionalized constitution
 Since the 1990s,
  there has been a new academic definition of democracy,
  the Compound Democracy,
- also known as Liberal Democracy or Constitutional Democracy.
- ########(Bao,
- Logic of Democracy:
- 38) The equation is representative democracy coupled with the rule of law,
+ also known as Liberal Democracy or Constitutional Democracy 
+\begin_inset CommandInset citation
+LatexCommand autocite
+key "Bao2018"
+literal "false"
+
+\end_inset
+
+.The equation is representative democracy coupled with the rule of law,
  which safeguards the legitimacy of political procedures,
  freedom of expression and participation of common citizens,
  and confines the power of administers within constitutional and legal principles.
  
+\end_layout
+
+\begin_layout Standard
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+空行
+\begin_inset space ~
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -222,21 +281,19 @@ The defining line between the second and the third definition of democracy lies 
  political opponents are eliminated (imprison ed,
  exiled,
  or killed),
- the regime may claim itself to be democratic,
- but it is autocracy in essence.
+ the regime has become an autocracy despite its claim to democracy.
  However,
  if public resentments are fermented and maneuvered to defy constitution and the rule of law and hijack governmental polices,
- it is still elective and representative democracy in name,
- but not liberal democracy.
+ the regime still takes the formality of election and representation of the people,
+ but falls short of Liberal Democracy.
  Therefore,
- to address the topical question in alignment with the definition of liberal democracy,
- it is possible that even if the symptoms seem to be an overdose of democracy pro forma,
- the underlying ill of the society is deficiency of it in essence.
- 
+ to address the topical question in alignment with the definition of Liberal Democracy,
+ it is possible that even if the symptoms of rampant populism hijacking public policies seem to be an overdose of democracy,
+ the underlying ill is the deficiency of Liberal Democracy.
 \end_layout
 
 \begin_layout Standard
-This research is a comparative analysis set within the paradigms of representative democracy and liberal democracy.
+This research is a comparative analysis set within the paradigms of Elective and Representative democracy and Liberal Democracy.
  
 \end_layout
 
@@ -258,14 +315,14 @@ Democracy as ends
 \end_layout
 
 \begin_layout Standard
-Democracy is taken as ends when its intrinsic value of citizen participation and decision as social good per se is recognized.
- It is considered equally important with freedom,
+Democracy is taken as ends for its intrinsic value of citizen participation and decision as social good.
+ Its importance is parallel to freedom,
  equality,
  economic prosperity,
  social cohesion and public order.
- The bar for democratic excessiveness can be set quite high:
+ The bar to evaluate democratic excess is:
  as long as it allows other kinds of social goods to flourish as well,
- rather than crowd out others out of our collective life,
+ rather than crowds out others out of our collective life,
  there is no overdose of democracy.
  
 \end_layout
@@ -278,7 +335,15 @@ Global landscape of democracy shows that vast regions are still short of democra
  Venezuela,
  Brazil,
  Argentina,
- Chile and multiple other Latin American countries have experienced different degrees of democratic backslide (The Global State of Democracy 2019 Addressing the Ills,
+ Chile and multiple other Latin American countries have experienced different degrees of democratic backslide 
+\begin_inset CommandInset citation
+LatexCommand autocite
+key "key-4"
+literal "false"
+
+\end_inset
+
+####### (The Global State of Democracy 2019 Addressing the Ills,
  Reviving the Promise).
  Cambodia,
  Thailand,
@@ -581,17 +646,6 @@ Knowing keeps us free.
 
 \begin_layout Right Address
 The Washington Post 
-\end_layout
-
-\begin_layout Bibliography
-\begin_inset CommandInset bibitem
-LatexCommand bibitem
-key "key-4"
-
-\end_inset
-
-Key findings The Global State of Democracy 2019 Addressing the Ills,
- Reviving the Promise
 \end_layout
 
 \begin_layout Standard
