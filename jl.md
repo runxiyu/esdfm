@@ -1,6 +1,5 @@
 # Do we have any good reasons to trust our moral intuition?
 
-
 It cannot be denied, however, that intuitive judgment is occasionally
 unreliable. But these are typically attributed to a lack of information.
 For those who raise the example of a person whose moral principles are
@@ -27,22 +26,22 @@ to define the liberty of all, not to mandate our own moral code."
 ---
 
 Let us first make a distinction between two notions of trusting moral 
-intuition. One is the notion that moral intuition is self-evident and 
-that any "sane" human would arrive at a set of common moral judgments 
-or principles. Another is the notion that moral intuition is 
-idiosyncratic to each individual. I shall hereby assume that the latter
-is true, for throughout history there has not been consistent agreement
-over what is moral or what is ethical. Moral intuition doesn't
-necessarily align across time periods: prior to the mid-20th century,
-homosexuality was considered a sin in almost all jurisdictions and
-cultures often with explanations that attempt to argue that
-homosexuality is "obviously" wrong---an appeal to intuition---yet we now
-condemn such discrimination; neither does it align across cultural and
-geographical regions: capitalism and individualism are predominant in
-some cultures while socialism and collectivism are predominant in some
-others. (These are indeed considered political ideologies, but
-nevertheless they are often enforced through moral coercion and enjoy
-similar arguments on how they are intuitively obvious.)
+intuition. One is that moral intuition is self-evident and that any
+"sane" human would arrive at a set of common moral judgments or
+principles. Another is the notion that moral intuition is idiosyncratic
+to each individual. I shall hereby assume that the latter is true, for
+throughout history there has not been consistent agreement over what is
+moral or what is ethical. Moral intuition doesn't necessarily align
+across time periods: prior to the mid-20th century, homosexuality was
+considered a sin in almost all jurisdictions and cultures often with
+explanations that attempt to argue that homosexuality is "obviously"
+wrong---an appeal to intuition---yet we now condemn such discrimination;
+neither does it align across cultural and geographical regions:
+capitalism and individualism are predominant in some cultures while
+socialism and collectivism are predominant in some others. (These are
+indeed considered political ideologies, but nevertheless they are often
+enforced through moral coercion and enjoy similar arguments on how they
+are intuitively obvious.)
 
 *Discuss "basic" moral intuition like "don't kill people" span across
 space and time?* 
@@ -61,7 +60,6 @@ specific context, "right or wrong"? Secondly, it's to decide on what to
 do. Thirdly, it's to test a general moral principle: Does this pattern
 sound right? Does applying this principle yield obviously ridiculous
 results? Fourthly, it's to provide an interface to ethics.
-
 
 I hereby argue that moral intuition is generally trustworthy in the
 first and third usages, but is less effective in the second and fourth.
