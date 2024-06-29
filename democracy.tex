@@ -3,13 +3,29 @@
 \usepackage{geometry}
 \geometry{a4paper}
 % \geometry{verbose,tmargin=1cm,bmargin=1cm,lmargin=1cm,rmargin=1cm,headheight=1cm,headsep=1cm,footskip=1cm}
-\synctex=-1
+
+\usepackage[T1]{fontenc}
+\usepackage{iftex}
+\iftutex
+        \usepackage{fontspec}
+        \setmainfont{TeX Gyre Schola}
+        \setsansfont{TeX Gyre Heros}
+        \setmonofont{TeX Gyre Cursor}
+        \usepackage{unicode-math}
+        \setmathfont{TeX Gyre Schola}
+\else
+        \usepackage{tgschola}
+        \usepackage{tgheros}
+        \usepackage{tgcursor}
+\fi
+\usepackage{microtype}
 
 \usepackage{babel}
 \usepackage[style=apa]{biblatex}
 \addbibresource{dem.bib}
 \begin{document}
 \title{Is there such a thing as too much democracy?}
+\author{\today}
 \maketitle
 
 \subsection*{Introduction}
