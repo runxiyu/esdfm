@@ -21,3 +21,5 @@ __pycache__
 !**/img/**
 *.bbl
 *.blg
+*.run.xml
+*.bcf
