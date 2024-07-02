@@ -1,13 +1,11 @@
-.PHONY default
-
 default: jl.pdf
 
-democracy.pdf: democracy.tex democracy.bbl
-	pdflatex democracy.tex
-	pdflatex democracy.tex
+%.pdf: %.tex %.bbl
+	pdflatex $(shell basename $@ .pdf)
+	pdflatex $(shell basename $@ .pdf)
 
-democracy.bcf: democracy.tex
-	pdflatex democracy.tex
+%.bcf: %.tex
+	pdflatex $<
 
-democracy.bbl: democracy.bcf yes.bib
-	biber democracy
+%.bbl: %.bcf yes.bib
+	biber $(shell basename $@ .bbl)
