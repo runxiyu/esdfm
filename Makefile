@@ -1,7 +1,11 @@
-democracy.pdf: democracy.tex democracy.bcf
-	pdflatex democracy.tex
-	pdflatex democracy.tex
+default: jl.pdf
 
-democracy.bcf: democracy.tex yes.bib
-	pdflatex democracy.tex
-	biber democracy
+%.pdf: %.tex %.bbl
+	pdflatex $(shell basename $@ .pdf)
+	pdflatex $(shell basename $@ .pdf)
+
+%.bcf: %.tex
+	pdflatex $<
+
+%.bbl: %.bcf yes.bib
+	biber $(shell basename $@ .bbl)
