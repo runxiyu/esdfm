@@ -68,10 +68,10 @@
 \shortcut idx
 \color #008000
 \end_index
-\leftmargin 1cm
-\topmargin 1cm
-\rightmargin 1cm
-\bottommargin 1cm
+\leftmargin 2cm
+\topmargin 2cm
+\rightmargin 2cm
+\bottommargin 2cm
 \headheight 1cm
 \headsep 1cm
 \footskip 1cm
@@ -179,7 +179,15 @@ literal "false"
 
 .
  Direct democracy of rule by the majority was practiced in Athens in the form of citizen's assembly sized 6000,
- with at last 40 annual conventions.
+ with at last 40 annual conventions
+\begin_inset CommandInset citation
+LatexCommand autocite
+key "Bao2018"
+literal "false"
+
+\end_inset
+
+.
  
 \end_layout
 
@@ -190,7 +198,7 @@ Definition 2 Elective and Representative Democracy
 
 \begin_layout Standard
 To accommodate ever increasing population and to overcome the inherent defects of direct governing by the people,
- the egalitarianism regime where people make decisions together evolved into representatives governing the country through competitive election into legislature and administration 
+ the egalitarianism regime where people made decisions together evolved into representatives governing the country through competitive election into legislature and administration 
 \begin_inset CommandInset citation
 LatexCommand autocite
 key "capsocdem"
@@ -200,7 +208,7 @@ literal "false"
 
 .
  The rank and file participate indirectly in making laws and public policies by casting their votes.
- Grass root democracy has been replaced by representative democracy.
+ Grassroots democracy has been replaced by representative democracy.
  
 \end_layout
 
@@ -278,7 +286,7 @@ Democracy is taken as ends for its intrinsic value of citizen participation and 
  economic prosperity,
  social cohesion and public order.
  The bar to evaluate democratic excess is:
- as long as it allows other kinds of social goods to flourish as well,
+ as long as it allows other kinds of common good to flourish as well,
  rather than crowds out others out of our collective life,
  there is no overdose of democracy.
  
