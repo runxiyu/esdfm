@@ -23,3 +23,5 @@ __pycache__
 *.blg
 *.run.xml
 *.bcf
+*.bak
+*.sav.tmp
