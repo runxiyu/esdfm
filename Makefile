@@ -7,5 +7,5 @@ default: jl.pdf
 %.bcf: %.tex
 	pdflatex $<
 
-%.bbl: %.bcf yes.bib
+%.bbl: %.bcf %.bib
 	biber $(shell basename $@ .bbl)
