@@ -1,3 +1,5 @@
+.PHONY: clean
+
 default: moral.pdf
 
 %.pdf: %.tex %.bbl
@@ -9,3 +11,6 @@ default: moral.pdf
 
 %.bbl: %.bcf %.bib
 	biber $(shell basename $@ .bbl)
+
+clean:
+	rm *.aux *.blg *.log *.run.xml
