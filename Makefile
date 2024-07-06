@@ -1,4 +1,4 @@
-default: jl.pdf
+default: moral.pdf
 
 %.pdf: %.tex %.bbl
 	pdflatex $(shell basename $@ .pdf)
