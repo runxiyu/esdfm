@@ -13,4 +13,4 @@ default: moral.pdf
 	biber $(shell basename $@ .bbl)
 
 clean:
-	rm *.aux *.blg *.log *.run.xml
+	rm *.aux *.blg *.log *.run.xml *.pdf
