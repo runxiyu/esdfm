@@ -11,7 +11,7 @@ aaaa
 *.snm
 *.synctex.gz
 *.toc
-*.pdf
+# *.pdf
 *.ps
 *.dvi
 *.o
